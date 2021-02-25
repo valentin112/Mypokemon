@@ -1,0 +1,5708 @@
+fileFormatVersion: 2
+guid: 650cbb015da4d754bb00a2b46d54cf42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3539553497244953129
+    second: tileset-alistair2_0
+  - first:
+      213: 4633451276232353831
+    second: tileset-alistair2_1
+  - first:
+      213: 3418491371647018825
+    second: tileset-alistair2_2
+  - first:
+      213: 6787378498025473317
+    second: tileset-alistair2_3
+  - first:
+      213: 4105004345528468472
+    second: tileset-alistair2_4
+  - first:
+      213: -6549081286634565506
+    second: tileset-alistair2_5
+  - first:
+      213: -2130638933256513182
+    second: tileset-alistair2_6
+  - first:
+      213: 1538373993466403141
+    second: tileset-alistair2_7
+  - first:
+      213: 2838330706542016360
+    second: tileset-alistair2_8
+  - first:
+      213: -5200385718241320151
+    second: tileset-alistair2_9
+  - first:
+      213: -5429885301012198933
+    second: tileset-alistair2_10
+  - first:
+      213: 4343168889989752461
+    second: tileset-alistair2_11
+  - first:
+      213: -3235564433370242591
+    second: tileset-alistair2_12
+  - first:
+      213: -2108210274782618365
+    second: tileset-alistair2_13
+  - first:
+      213: -8106802538613566094
+    second: tileset-alistair2_14
+  - first:
+      213: -3585192044093171015
+    second: tileset-alistair2_15
+  - first:
+      213: -5222915566491771955
+    second: tileset-alistair2_16
+  - first:
+      213: 7977096565919592580
+    second: tileset-alistair2_17
+  - first:
+      213: -6343088276949552085
+    second: tileset-alistair2_19
+  - first:
+      213: 4000719784384005540
+    second: tileset-alistair2_20
+  - first:
+      213: 5898399759173114586
+    second: tileset-alistair2_21
+  - first:
+      213: 4605842440267487083
+    second: tileset-alistair2_22
+  - first:
+      213: -5927180849706885688
+    second: tileset-alistair2_23
+  - first:
+      213: 2815085949363268590
+    second: tileset-alistair2_24
+  - first:
+      213: 8259227705863336570
+    second: tileset-alistair2_25
+  - first:
+      213: 8892544608955247860
+    second: tileset-alistair2_26
+  - first:
+      213: -3988132668398901584
+    second: tileset-alistair2_27
+  - first:
+      213: -6281121983671556760
+    second: tileset-alistair2_28
+  - first:
+      213: 1564264066744466067
+    second: tileset-alistair2_29
+  - first:
+      213: 4411512345549455223
+    second: tileset-alistair2_30
+  - first:
+      213: -6900781354798666768
+    second: tileset-alistair2_31
+  - first:
+      213: -1202643628942611157
+    second: tileset-alistair2_32
+  - first:
+      213: -1297520849972291731
+    second: tileset-alistair2_33
+  - first:
+      213: -1913668181611904981
+    second: tileset-alistair2_34
+  - first:
+      213: -9055563394744075792
+    second: tileset-alistair2_35
+  - first:
+      213: 3156959635090195455
+    second: tileset-alistair2_36
+  - first:
+      213: 1030701618280793078
+    second: tileset-alistair2_37
+  - first:
+      213: 5005215387295597812
+    second: tileset-alistair2_38
+  - first:
+      213: 8426552527149677320
+    second: tileset-alistair2_39
+  - first:
+      213: 5805004590183393909
+    second: tileset-alistair2_40
+  - first:
+      213: -1463880743712587795
+    second: tileset-alistair2_41
+  - first:
+      213: 5956261027673603583
+    second: tileset-alistair2_42
+  - first:
+      213: -7702401457503889356
+    second: tileset-alistair2_43
+  - first:
+      213: -3630895020121951076
+    second: tileset-alistair2_44
+  - first:
+      213: 2028042309931140257
+    second: tileset-alistair2_45
+  - first:
+      213: 5910886169431315107
+    second: tileset-alistair2_46
+  - first:
+      213: -2433262638511497170
+    second: tileset-alistair2_47
+  - first:
+      213: 1126096696440564230
+    second: tileset-alistair2_48
+  - first:
+      213: -8090368853567583596
+    second: tileset-alistair2_49
+  - first:
+      213: 6738839483619050945
+    second: tileset-alistair2_50
+  - first:
+      213: 1511650903475818121
+    second: tileset-alistair2_51
+  - first:
+      213: -9108106130734541371
+    second: tileset-alistair2_52
+  - first:
+      213: 6419934762019456342
+    second: tileset-alistair2_53
+  - first:
+      213: 1295971322211106241
+    second: tileset-alistair2_54
+  - first:
+      213: 714082841458635166
+    second: tileset-alistair2_55
+  - first:
+      213: -7379437564306251268
+    second: tileset-alistair2_56
+  - first:
+      213: -7362272758958149687
+    second: tileset-alistair2_57
+  - first:
+      213: 7944125027943603255
+    second: tileset-alistair2_58
+  - first:
+      213: 4438297098899454675
+    second: tileset-alistair2_59
+  - first:
+      213: -2968816554390873677
+    second: tileset-alistair2_60
+  - first:
+      213: 7928623583878268479
+    second: tileset-alistair2_61
+  - first:
+      213: -3878552012903624290
+    second: tileset-alistair2_62
+  - first:
+      213: 2194705919019847360
+    second: tileset-alistair2_63
+  - first:
+      213: 5693764254341791365
+    second: tileset-alistair2_64
+  - first:
+      213: -2474962678437251139
+    second: tileset-alistair2_65
+  - first:
+      213: -7654129603791308530
+    second: tileset-alistair2_66
+  - first:
+      213: -3307936194692258804
+    second: tileset-alistair2_67
+  - first:
+      213: 5669533439238185368
+    second: tileset-alistair2_68
+  - first:
+      213: 7931372144260037556
+    second: tileset-alistair2_69
+  - first:
+      213: 7802762984367140746
+    second: tileset-alistair2_70
+  - first:
+      213: 2456113463153568187
+    second: tileset-alistair2_71
+  - first:
+      213: -2142166963031521763
+    second: tileset-alistair2_72
+  - first:
+      213: -3480969634809608633
+    second: tileset-alistair2_73
+  - first:
+      213: 6342297558972005770
+    second: tileset-alistair2_74
+  - first:
+      213: -1689951404971048121
+    second: tileset-alistair2_75
+  - first:
+      213: -9087834906040865361
+    second: tileset-alistair2_76
+  - first:
+      213: -8265561928398821061
+    second: tileset-alistair2_77
+  - first:
+      213: 4486261041512371430
+    second: tileset-alistair2_78
+  - first:
+      213: -908876039183449546
+    second: tileset-alistair2_79
+  - first:
+      213: -3476120360767308216
+    second: tileset-alistair2_80
+  - first:
+      213: -4942809428655343489
+    second: tileset-alistair2_81
+  - first:
+      213: -5660393164499409116
+    second: tileset-alistair2_82
+  - first:
+      213: -9211553573004141841
+    second: tileset-alistair2_83
+  - first:
+      213: 3218837655335945313
+    second: tileset-alistair2_84
+  - first:
+      213: -3041201665111462304
+    second: tileset-alistair2_85
+  - first:
+      213: -5091394569044127284
+    second: tileset-alistair2_86
+  - first:
+      213: 284108364394625519
+    second: tileset-alistair2_87
+  - first:
+      213: -8718373350459740284
+    second: tileset-alistair2_88
+  - first:
+      213: -7285988026983906298
+    second: tileset-alistair2_89
+  - first:
+      213: 5986386456559272495
+    second: tileset-alistair2_90
+  - first:
+      213: 3328206038509834602
+    second: tileset-alistair2_91
+  - first:
+      213: -1782311912105304261
+    second: tileset-alistair2_92
+  - first:
+      213: -4617793661511210023
+    second: tileset-alistair2_93
+  - first:
+      213: 5198820876909369296
+    second: tileset-alistair2_94
+  - first:
+      213: -2982472177737483100
+    second: tileset-alistair2_95
+  - first:
+      213: 392380002954289368
+    second: tileset-alistair2_96
+  - first:
+      213: -8548349120244438821
+    second: tileset-alistair2_97
+  - first:
+      213: 2850357407464997809
+    second: tileset-alistair2_98
+  - first:
+      213: -4794495925683955981
+    second: tileset-alistair2_99
+  - first:
+      213: 3620080262187960585
+    second: tileset-alistair2_100
+  - first:
+      213: -4911832779365647931
+    second: tileset-alistair2_101
+  - first:
+      213: 889791237505117579
+    second: tileset-alistair2_102
+  - first:
+      213: 6990634183915332644
+    second: tileset-alistair2_103
+  - first:
+      213: 8535578671675775036
+    second: tileset-alistair2_104
+  - first:
+      213: 4197914367831170757
+    second: tileset-alistair2_105
+  - first:
+      213: -7760305549762410671
+    second: tileset-alistair2_106
+  - first:
+      213: 3265589544914197528
+    second: tileset-alistair2_107
+  - first:
+      213: -5600770282596536328
+    second: tileset-alistair2_108
+  - first:
+      213: -966342361974271455
+    second: tileset-alistair2_109
+  - first:
+      213: 4829453645210233275
+    second: tileset-alistair2_110
+  - first:
+      213: -3592645921299014384
+    second: tileset-alistair2_111
+  - first:
+      213: -4093059123027892153
+    second: tileset-alistair2_112
+  - first:
+      213: 871598596202272436
+    second: tileset-alistair2_113
+  - first:
+      213: -1433286037690459623
+    second: tileset-alistair2_114
+  - first:
+      213: -3522361914673328763
+    second: tileset-alistair2_115
+  - first:
+      213: -7309972333697074775
+    second: tileset-alistair2_116
+  - first:
+      213: 3409722091611025199
+    second: tileset-alistair2_117
+  - first:
+      213: -5827542354366255637
+    second: tileset-alistair2_118
+  - first:
+      213: 5105774901308051932
+    second: tileset-alistair2_119
+  - first:
+      213: 5710905371602203364
+    second: tileset-alistair2_120
+  - first:
+      213: 4110784358454215086
+    second: tileset-alistair2_121
+  - first:
+      213: -5456380636859530733
+    second: tileset-alistair2_122
+  - first:
+      213: -8424909344990542235
+    second: tileset-alistair2_123
+  - first:
+      213: 2110006676400567677
+    second: tileset-alistair2_124
+  - first:
+      213: -781110863189478110
+    second: tileset-alistair2_125
+  - first:
+      213: 8097120536611187673
+    second: tileset-alistair2_126
+  - first:
+      213: 2716978281237990862
+    second: tileset-alistair2_127
+  - first:
+      213: -8145638257550354880
+    second: tileset-alistair2_128
+  - first:
+      213: 8802467792971852712
+    second: tileset-alistair2_129
+  - first:
+      213: -1061045320538774223
+    second: tileset-alistair2_130
+  - first:
+      213: 4786416355075123111
+    second: tileset-alistair2_131
+  - first:
+      213: -4287959271040138502
+    second: tileset-alistair2_132
+  - first:
+      213: -1551399773266266642
+    second: tileset-alistair2_133
+  - first:
+      213: 3799826454162050444
+    second: tileset-alistair2_134
+  - first:
+      213: 7136584970131648322
+    second: tileset-alistair2_135
+  - first:
+      213: -4131858650004659371
+    second: tileset-alistair2_136
+  - first:
+      213: -6102887904662846298
+    second: tileset-alistair2_137
+  - first:
+      213: -9177374550400040140
+    second: tileset-alistair2_138
+  - first:
+      213: -2566985909863478
+    second: tileset-alistair2_139
+  - first:
+      213: 7238517798567411930
+    second: tileset-alistair2_140
+  - first:
+      213: 4500886593535674917
+    second: tileset-alistair2_141
+  - first:
+      213: -3379574567341297142
+    second: tileset-alistair2_142
+  - first:
+      213: 6046959563960518378
+    second: tileset-alistair2_143
+  - first:
+      213: 1557937957282514315
+    second: tileset-alistair2_144
+  - first:
+      213: -1714360076696946189
+    second: tileset-alistair2_145
+  - first:
+      213: -6118234456989304926
+    second: tileset-alistair2_146
+  - first:
+      213: -1328022354540630262
+    second: tileset-alistair2_147
+  - first:
+      213: -1179518236104229287
+    second: tileset-alistair2_148
+  - first:
+      213: -4874244165030479922
+    second: tileset-alistair2_149
+  - first:
+      213: -4155807220066836323
+    second: tileset-alistair2_150
+  - first:
+      213: -2667571954106774722
+    second: tileset-alistair2_151
+  - first:
+      213: -3483121043784821207
+    second: tileset-alistair2_152
+  - first:
+      213: 4098528793716862341
+    second: tileset-alistair2_153
+  - first:
+      213: -5364169866594272467
+    second: tileset-alistair2_154
+  - first:
+      213: -4244736310443706652
+    second: tileset-alistair2_155
+  - first:
+      213: -3552938546907359168
+    second: tileset-alistair2_156
+  - first:
+      213: -4259123174097136180
+    second: tileset-alistair2_157
+  - first:
+      213: -6477917045100234019
+    second: tileset-alistair2_158
+  - first:
+      213: -3823557543779775246
+    second: tileset-alistair2_159
+  - first:
+      213: 7871776684751663522
+    second: tileset-alistair2_160
+  - first:
+      213: -3728495661189867326
+    second: tileset-alistair2_161
+  - first:
+      213: -627127978224415371
+    second: tileset-alistair2_162
+  - first:
+      213: -8527247551017318144
+    second: tileset-alistair2_163
+  - first:
+      213: 6456972908566376290
+    second: tileset-alistair2_164
+  - first:
+      213: 820645422312820722
+    second: tileset-alistair2_165
+  - first:
+      213: -4603041588801839067
+    second: tileset-alistair2_166
+  - first:
+      213: -4104185327379754368
+    second: tileset-alistair2_167
+  - first:
+      213: -1162421268975432731
+    second: tileset-alistair2_168
+  - first:
+      213: -8608647918488337974
+    second: tileset-alistair2_169
+  - first:
+      213: -971604488274580167
+    second: tileset-alistair2_170
+  - first:
+      213: -3770920946712332567
+    second: tileset-alistair2_171
+  - first:
+      213: -944496053145291950
+    second: tileset-alistair2_172
+  - first:
+      213: 8286543935775888531
+    second: tileset-alistair2_173
+  - first:
+      213: -1488893680946734746
+    second: tileset-alistair2_174
+  - first:
+      213: -303124118484131562
+    second: tileset-alistair2_175
+  - first:
+      213: 6098509412289078727
+    second: tileset-alistair2_176
+  - first:
+      213: 1109669152472579730
+    second: tileset-alistair2_177
+  - first:
+      213: -4242651269466031795
+    second: tileset-alistair2_178
+  - first:
+      213: 5290237764796252565
+    second: tileset-alistair2_179
+  - first:
+      213: 7786541996577209828
+    second: tileset-alistair2_180
+  - first:
+      213: -4540170255326972630
+    second: tileset-alistair2_181
+  - first:
+      213: -1671884022774708553
+    second: tileset-alistair2_182
+  - first:
+      213: 5040771339532841151
+    second: tileset-alistair2_183
+  - first:
+      213: 2130705942660587211
+    second: tileset-alistair2_184
+  - first:
+      213: 8826883700123383208
+    second: tileset-alistair2_185
+  - first:
+      213: -5494617314387731312
+    second: tileset-alistair2_186
+  - first:
+      213: -6550394281291832319
+    second: tileset-alistair2_187
+  - first:
+      213: -4164127854218425138
+    second: tileset-alistair2_188
+  - first:
+      213: 5448173338016373764
+    second: tileset-alistair2_189
+  - first:
+      213: -2988245175716126462
+    second: tileset-alistair2_190
+  - first:
+      213: -5947137725005965950
+    second: tileset-alistair2_191
+  - first:
+      213: 2157727672033544091
+    second: tileset-alistair2_192
+  - first:
+      213: -1642044126778396206
+    second: tileset-alistair2_193
+  - first:
+      213: 8602004469545481281
+    second: tileset-alistair2_194
+  - first:
+      213: 3577560095577605017
+    second: tileset-alistair2_195
+  - first:
+      213: -2531098308785414283
+    second: tileset-alistair2_196
+  - first:
+      213: 4626507377093473906
+    second: tileset-alistair2_197
+  - first:
+      213: -8358613231022550532
+    second: tileset-alistair2_198
+  - first:
+      213: -807953166379533498
+    second: tileset-alistair2_199
+  - first:
+      213: -5140926513542082424
+    second: tileset-alistair2_200
+  - first:
+      213: 4397682016514799474
+    second: tileset-alistair2_201
+  - first:
+      213: 3469661914432703676
+    second: tileset-alistair2_202
+  - first:
+      213: -6832299675369356927
+    second: tileset-alistair2_203
+  - first:
+      213: -7302448575764574307
+    second: tileset-alistair2_204
+  - first:
+      213: 18205943711888733
+    second: tileset-alistair2_205
+  - first:
+      213: 7415977484509978651
+    second: tileset-alistair2_206
+  - first:
+      213: -547651682932930049
+    second: tileset-alistair2_207
+  - first:
+      213: -8633365777200156220
+    second: tileset-alistair2_208
+  - first:
+      213: 1035851483759185995
+    second: tileset-alistair2_209
+  - first:
+      213: -2163976537810902119
+    second: tileset-alistair2_210
+  - first:
+      213: -7411405242184123134
+    second: tileset-alistair2_211
+  - first:
+      213: -7097095645898534354
+    second: tileset-alistair2_212
+  - first:
+      213: 6872162515672415965
+    second: tileset-alistair2_213
+  - first:
+      213: -8018071042813235437
+    second: tileset-alistair2_214
+  - first:
+      213: -2142351015841684340
+    second: tileset-alistair2_215
+  - first:
+      213: -8772316097298529880
+    second: tileset-alistair2_216
+  - first:
+      213: -5595930596527080144
+    second: tileset-alistair2_217
+  - first:
+      213: -8920909095060903471
+    second: tileset-alistair2_218
+  - first:
+      213: -2427874627704325452
+    second: tileset-alistair2_219
+  - first:
+      213: -4980327853965275807
+    second: tileset-alistair2_220
+  - first:
+      213: -2079299164259019839
+    second: tileset-alistair2_221
+  - first:
+      213: -1644160479297421930
+    second: tileset-alistair2_222
+  - first:
+      213: 3081535634644206359
+    second: tileset-alistair2_223
+  - first:
+      213: -504307899026264356
+    second: tileset-alistair2_224
+  - first:
+      213: 2846496773167144880
+    second: tileset-alistair2_225
+  - first:
+      213: -1499454400641401205
+    second: tileset-alistair2_226
+  - first:
+      213: 391467288956301630
+    second: tileset-alistair2_227
+  - first:
+      213: -4282634134518484066
+    second: tileset-alistair2_228
+  - first:
+      213: 1968969329566565491
+    second: tileset-alistair2_229
+  - first:
+      213: 5170622195301399465
+    second: tileset-alistair2_230
+  - first:
+      213: 4292139673492851320
+    second: tileset-alistair2_231
+  - first:
+      213: 8475475111527796224
+    second: tileset-alistair2_232
+  - first:
+      213: -336361752569384904
+    second: tileset-alistair2_233
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileset-alistair2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ae6c207250f1130800000000000000
+      internalID: 3539553497244953129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 204
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728e8ebf2635d4040800000000000000
+      internalID: 4633451276232353831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 204
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94722c26acbe07f20800000000000000
+      internalID: 3418491371647018825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 204
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525ceea68cc913e50800000000000000
+      internalID: 6787378498025473317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 204
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3c8a8f3b7e7f830800000000000000
+      internalID: 4105004345528468472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 204
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e701df0b44dfc15a0800000000000000
+      internalID: -6549081286634565506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 204
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269d0a6cd237e62e0800000000000000
+      internalID: -2130638933256513182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 204
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54993441ff6695510800000000000000
+      internalID: 1538373993466403141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 204
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867358e4db6c36720800000000000000
+      internalID: 2838330706542016360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 204
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9232639fdb484d7b0800000000000000
+      internalID: -5200385718241320151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 204
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be98d06661c25a4b0800000000000000
+      internalID: -5429885301012198933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 204
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86ed572819064c30800000000000000
+      internalID: 4343168889989752461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 204
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e124156a47f813d0800000000000000
+      internalID: -3235564433370242591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 204
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dd0c3cce12eb2e0800000000000000
+      internalID: -2108210274782618365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 204
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27514b5fa0ade7f80800000000000000
+      internalID: -8106802538613566094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 204
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba1540c4d6de3ec0800000000000000
+      internalID: -3585192044093171015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 204
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb5667e6f97487b0800000000000000
+      internalID: -5222915566491771955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 204
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48030aeef0754be60800000000000000
+      internalID: 7977096565919592580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 188
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b243a79b1d2d8f7a0800000000000000
+      internalID: -6343088276949552085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_20
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 188
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5061a7279658730800000000000000
+      internalID: 4000719784384005540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_21
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 188
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada53c474535bd150800000000000000
+      internalID: 5898399759173114586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_22
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 188
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67df8feb4d3bef30800000000000000
+      internalID: 4605842440267487083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_23
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 188
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd19b5bb6c6ebda0800000000000000
+      internalID: -5927180849706885688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_24
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 188
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebadf781c1311720800000000000000
+      internalID: 2815085949363268590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_25
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 188
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a727c07d6dbae9270800000000000000
+      internalID: 8259227705863336570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_26
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 188
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fca716053aa86b70800000000000000
+      internalID: 8892544608955247860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_27
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 188
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6e3f6d77e47a8c0800000000000000
+      internalID: -3988132668398901584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 188
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8652c5ca5d8f4d8a0800000000000000
+      internalID: -6281121983671556760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_29
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 188
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a363181e165b510800000000000000
+      internalID: 1564264066744466067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 188
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fb9b6ea17d83d30800000000000000
+      internalID: 4411512345549455223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_31
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 188
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb26927bef7b30a0800000000000000
+      internalID: -6900781354798666768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_32
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 188
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d2d79cdf95f4fe0800000000000000
+      internalID: -1202643628942611157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_33
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 188
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d671db859a74efde0800000000000000
+      internalID: -1297520849972291731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 188
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b200e098de84175e0800000000000000
+      internalID: -1913668181611904981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_35
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 188
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9bf37221d245280800000000000000
+      internalID: -9055563394744075792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff34cc3df06cfcb20800000000000000
+      internalID: 3156959635090195455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 172
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f30c0339a9cd4e00800000000000000
+      internalID: 1030701618280793078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_38
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 172
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4c21040e8167540800000000000000
+      internalID: 5005215387295597812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_39
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 172
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b3deda0e021f470800000000000000
+      internalID: 8426552527149677320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_40
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 172
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57aa4652be48f8050800000000000000
+      internalID: 5805004590183393909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_41
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 172
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deff97538304fabe0800000000000000
+      internalID: -1463880743712587795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_42
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 172
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdfcf7d8d3e8a250800000000000000
+      internalID: 5956261027673603583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_43
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 172
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4389708fea29b1590800000000000000
+      internalID: -7702401457503889356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_44
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 172
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9475ec67387c9dc0800000000000000
+      internalID: -3630895020121951076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_45
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 172
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a488e06cbd052c10800000000000000
+      internalID: 2028042309931140257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_46
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 172
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a219b467afa70250800000000000000
+      internalID: 5910886169431315107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_47
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 172
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20ea42b5805b3ed0800000000000000
+      internalID: -2433262638511497170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_48
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 172
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60aa416aaf2b0af00800000000000000
+      internalID: 1126096696440564230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_49
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 172
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a483d646c39bf80800000000000000
+      internalID: -8090368853567583596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_50
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 172
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c58d737eca258d50800000000000000
+      internalID: 6738839483619050945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_51
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 172
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e0316dc767af410800000000000000
+      internalID: 1511650903475818121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 172
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5920d1bb1899180800000000000000
+      internalID: -9108106130734541371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_53
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 172
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6550a5bd6a0381950800000000000000
+      internalID: 6419934762019456342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd7c7b1d073cf110800000000000000
+      internalID: 1295971322211106241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_55
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 156
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91f7599f8ee8e900800000000000000
+      internalID: 714082841458635166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_56
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 156
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf12a5912a8f69990800000000000000
+      internalID: -7379437564306251268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_57
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 156
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfa3c6cee3f3d990800000000000000
+      internalID: -7362272758958149687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_58
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 156
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c5ed58f933f3e60800000000000000
+      internalID: 7944125027943603255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_59
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 156
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da7c8342bff79d30800000000000000
+      internalID: 4438297098899454675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_60
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 156
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b99b30c215acc6d0800000000000000
+      internalID: -2968816554390873677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_61
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 156
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3649d25421280e60800000000000000
+      internalID: 7928623583878268479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_62
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 156
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91d0046e7d9c2ac0800000000000000
+      internalID: -3878552012903624290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_63
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 156
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce00a1c769257e10800000000000000
+      internalID: 2194705919019847360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_64
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 156
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58efbd62c60540f40800000000000000
+      internalID: 5693764254341791365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_65
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 156
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7f56f8e8a27add0800000000000000
+      internalID: -2474962678437251139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_66
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 156
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09b73dbda117c590800000000000000
+      internalID: -7654129603791308530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_67
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 156
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04e5bf9e89d712d0800000000000000
+      internalID: -3307936194692258804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_68
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 156
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891adffdf9a3eae40800000000000000
+      internalID: 5669533439238185368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_69
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 156
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb3c0861f4e11e60800000000000000
+      internalID: 7931372144260037556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_70
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 156
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f25cde79bf84c60800000000000000
+      internalID: 7802762984367140746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_71
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 156
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9a2538e2ed51220800000000000000
+      internalID: 2456113463153568187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16cdee2f7e7542e0800000000000000
+      internalID: -2142166963031521763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_73
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 140
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74680436f8c11bfc0800000000000000
+      internalID: -3480969634809608633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_74
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 140
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d7a56e60e540850800000000000000
+      internalID: 6342297558972005770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_75
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 140
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7434703a6261c88e0800000000000000
+      internalID: -1689951404971048121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_76
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 140
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fade9086d4681e180800000000000000
+      internalID: -9087834906040865361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_77
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 140
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39abcc0833da4d80800000000000000
+      internalID: -8265561928398821061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_78
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 140
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4d405e5a6624e30800000000000000
+      internalID: 4486261041512371430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_79
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 140
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6324b9bce060363f0800000000000000
+      internalID: -908876039183449546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_80
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 140
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e36fbf2f652cfc0800000000000000
+      internalID: -3476120360767308216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_81
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 140
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78fb84430d976bb0800000000000000
+      internalID: -4942809428655343489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_82
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 140
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427a6fc286e3271b0800000000000000
+      internalID: -5660393164499409116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_83
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 140
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea9b9b84dcf92080800000000000000
+      internalID: -9211553573004141841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_84
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 140
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16443fb1bcb9bac20800000000000000
+      internalID: 3218837655335945313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_85
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 140
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e64b4d23b7bc5d0800000000000000
+      internalID: -3041201665111462304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_86
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 140
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc195c46d9bb759b0800000000000000
+      internalID: -5091394569044127284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_87
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 140
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe975795d0b51f300800000000000000
+      internalID: 284108364394625519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_88
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 140
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f6d9231ad120780800000000000000
+      internalID: -8718373350459740284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_89
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 140
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60400e50e78f2ea90800000000000000
+      internalID: -7285988026983906298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22cc67d3cae31350800000000000000
+      internalID: 5986386456559272495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_91
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 124
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6150b822c9203e20800000000000000
+      internalID: 3328206038509834602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_92
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 124
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f140052c4f347e0800000000000000
+      internalID: -1782311912105304261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_93
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 124
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbe297812d4aefb0800000000000000
+      internalID: -4617793661511210023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_94
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 124
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d751130b0ce52840800000000000000
+      internalID: 5198820876909369296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_95
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 124
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acb87d2b512c96d0800000000000000
+      internalID: -2982472177737483100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_96
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 124
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0ae05a883027500800000000000000
+      internalID: 392380002954289368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_97
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 124
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8aec724c92e5980800000000000000
+      internalID: -8548349120244438821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_98
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 124
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3cad2d5f08e8720800000000000000
+      internalID: 2850357407464997809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_99
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 124
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6dc80ab57867db0800000000000000
+      internalID: -4794495925683955981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_100
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 124
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909cd1681db1d3230800000000000000
+      internalID: 3620080262187960585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_101
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 124
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c97ac57c1aa5dbb0800000000000000
+      internalID: -4911832779365647931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_102
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 124
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d6fbb8a6c295c00800000000000000
+      internalID: 889791237505117579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_103
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 124
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424e9f690c8b30160800000000000000
+      internalID: 6990634183915332644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_104
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 124
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3892a51497747670800000000000000
+      internalID: 8535578671675775036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_105
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 124
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ced51440ecf14a30800000000000000
+      internalID: 4197914367831170757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_106
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 124
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1574be5e73bdd4490800000000000000
+      internalID: -7760305549762410671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_107
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 124
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c17d6a364b15d20800000000000000
+      internalID: 3265589544914197528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffe4452a111642b0800000000000000
+      internalID: -5600770282596536328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_109
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 108
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1229c1fddbcd692f0800000000000000
+      internalID: -966342361974271455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_110
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 108
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9a8f5b08aa50340800000000000000
+      internalID: 4829453645210233275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_111
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 108
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d5739b19b542ec0800000000000000
+      internalID: -3592645921299014384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_112
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 108
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748204fd9688237c0800000000000000
+      internalID: -4093059123027892153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_113
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 108
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b69d592e4a881c00800000000000000
+      internalID: 871598596202272436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_114
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 108
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91adeed41f1fb1ce0800000000000000
+      internalID: -1433286037690459623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_115
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 108
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d0889308e0e1fc0800000000000000
+      internalID: -3522361914673328763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_116
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 108
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a97d0474e2cd8a90800000000000000
+      internalID: -7309972333697074775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_117
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 108
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fe6454d24c15f20800000000000000
+      internalID: 3409722091611025199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_118
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 108
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beda476ba19602fa0800000000000000
+      internalID: -5827542354366255637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_119
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 108
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1529f983b5bd640800000000000000
+      internalID: 5105774901308051932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_120
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 108
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e238348d26314f40800000000000000
+      internalID: 5710905371602203364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_121
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 108
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea145e918907c0930800000000000000
+      internalID: 4110784358454215086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_122
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 108
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3120bac48ba0744b0800000000000000
+      internalID: -5456380636859530733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_123
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 108
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56648fa7695b41b80800000000000000
+      internalID: -8424909344990542235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_124
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 108
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75fe8494ef384d10800000000000000
+      internalID: 2110006676400567677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_125
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 108
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2257465fecfe825f0800000000000000
+      internalID: -781110863189478110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbea384a30ce5070800000000000000
+      internalID: 8097120536611187673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_127
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 92
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd44a30a55a4b520800000000000000
+      internalID: 2716978281237990862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_128
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 92
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04611e58921e4fe80800000000000000
+      internalID: -8145638257550354880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_129
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 92
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab67eaf1d5a82a70800000000000000
+      internalID: 8802467792971852712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_130
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 92
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13522b217e86641f0800000000000000
+      internalID: -1061045320538774223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_131
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 92
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a76f5fb054cc6240800000000000000
+      internalID: 4786416355075123111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_132
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 92
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af24f46f2cb1e74c0800000000000000
+      internalID: -4287959271040138502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_133
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 92
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5b7d93022587ae0800000000000000
+      internalID: -1551399773266266642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_134
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 92
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d06781702bbb430800000000000000
+      internalID: 3799826454162050444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_135
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 92
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fa616183e3a0360800000000000000
+      internalID: 7136584970131648322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_136
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 92
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553e8580370b8a6c0800000000000000
+      internalID: -4131858650004659371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_137
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 92
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a40b8209cf2e4ba0800000000000000
+      internalID: -6102887904662846298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_138
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 92
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43302b0687a63a080800000000000000
+      internalID: -9177374550400040140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_139
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 92
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbf2b40751e6fff0800000000000000
+      internalID: -2566985909863478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_140
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 92
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad004f32691647460800000000000000
+      internalID: 7238517798567411930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_141
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 92
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a0306928c567e30800000000000000
+      internalID: 4500886593535674917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_142
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 92
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a027da536d65911d0800000000000000
+      internalID: -3379574567341297142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_143
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 92
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6840d6fad1be350800000000000000
+      internalID: 6046959563960518378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b850ced5158ee9510800000000000000
+      internalID: 1557937957282514315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_145
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 76
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9fd53e79e5538e0800000000000000
+      internalID: -1714360076696946189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_146
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 76
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7f89a5d2aa71ba0800000000000000
+      internalID: -6118234456989304926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_147
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 76
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fe3d764bae19de0800000000000000
+      internalID: -1328022354540630262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_148
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 76
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e79e2e96281afe0800000000000000
+      internalID: -1179518236104229287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_149
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 76
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec776dab1c43b5cb0800000000000000
+      internalID: -4874244165030479922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_150
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 76
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90a9ec0a5b9356c0800000000000000
+      internalID: -4155807220066836323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_151
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 76
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bcbaee071eafad0800000000000000
+      internalID: -2667571954106774722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_152
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 76
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92694837dd779afc0800000000000000
+      internalID: -3483121043784821207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_153
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 76
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d24331936e0e830800000000000000
+      internalID: 4098528793716862341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_154
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 76
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b3bca4de3ae85b0800000000000000
+      internalID: -5364169866594272467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_155
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 76
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6fcc2b0daa715c0800000000000000
+      internalID: -4244736310443706652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_156
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 76
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0485bc2473d61bec0800000000000000
+      internalID: -3552938546907359168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_157
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 76
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc55e49f90e84e4c0800000000000000
+      internalID: -4259123174097136180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_158
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 76
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda3a5ad4c0d916a0800000000000000
+      internalID: -6477917045100234019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_159
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 76
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fccdb80caeffeac0800000000000000
+      internalID: -3823557543779775246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_160
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 76
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a133d5303b2e3d60800000000000000
+      internalID: 7871776684751663522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_161
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 76
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8513853f8b14cc0800000000000000
+      internalID: -3728495661189867326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d893d2d6efb47f0800000000000000
+      internalID: -627127978224415371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_163
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 60
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0090bc9188129a980800000000000000
+      internalID: -8527247551017318144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_164
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f6b6b56a6cb9950800000000000000
+      internalID: 6456972908566376290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_165
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 60
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff8183e9a4836b00800000000000000
+      internalID: 820645422312820722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_166
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520ed1d1016be10c0800000000000000
+      internalID: -4603041588801839067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_167
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 60
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082d82d80310b07c0800000000000000
+      internalID: -4104185327379754368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_168
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb4c5fb3004edfe0800000000000000
+      internalID: -1162421268975432731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_169
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 60
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1c8162450f78880800000000000000
+      internalID: -8608647918488337974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_170
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93de73e9dda2482f0800000000000000
+      internalID: -971604488274580167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_171
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 60
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6b12fc06ffaabc0800000000000000
+      internalID: -3770920946712332567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_172
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253348408d974e2f0800000000000000
+      internalID: -944496053145291950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_173
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 60
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394d69b3ec7bff270800000000000000
+      internalID: 8286543935775888531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_174
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66998dee513665be0800000000000000
+      internalID: -1488893680946734746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_175
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 60
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61166e268361bcbf0800000000000000
+      internalID: -303124118484131562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_176
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5eddacff142a450800000000000000
+      internalID: 6098509412289078727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_177
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 60
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e36530736566f00800000000000000
+      internalID: 1109669152472579730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_178
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 60
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49fd9126231f15c0800000000000000
+      internalID: -4242651269466031795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_179
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 60
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591890cd733ba6940800000000000000
+      internalID: 5290237764796252565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed35a6e0ba5f0c60800000000000000
+      internalID: 7786541996577209828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_181
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 44
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25f07725331ef0c0800000000000000
+      internalID: -4540170255326972630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_182
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 44
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6ccdcd6564cc8e0800000000000000
+      internalID: -1671884022774708553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_183
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 44
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb033de73da64f540800000000000000
+      internalID: 5040771339532841151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_184
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 44
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce191114c9c19d10800000000000000
+      internalID: 2130705942660587211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_185
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 44
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a53a8b55f36f7a70800000000000000
+      internalID: 8826883700123383208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_186
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 44
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c553f0aa23fb3b0800000000000000
+      internalID: -5494617314387731312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_187
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 44
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104a9dc4b135815a0800000000000000
+      internalID: -6550394281291832319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_188
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 44
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc400277cb0636c0800000000000000
+      internalID: -4164127854218425138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_189
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 44
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c583709cccb9b40800000000000000
+      internalID: 5448173338016373764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_190
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 44
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2016aa758de9786d0800000000000000
+      internalID: -2988245175716126462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_191
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 44
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285d1b69fb5877da0800000000000000
+      internalID: -5947137725005965950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_192
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 44
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b970795b2e9c1fd10800000000000000
+      internalID: 2157727672033544091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_193
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 44
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d17bdd01994639e0800000000000000
+      internalID: -1642044126778396206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_194
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 44
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144b49b5d75706770800000000000000
+      internalID: 8602004469545481281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_195
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 44
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9930483c3fb06a130800000000000000
+      internalID: 3577560095577605017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_196
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 44
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fd04d9f7bbfdcd0800000000000000
+      internalID: -2531098308785414283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_197
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 44
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276716a72f7a43040800000000000000
+      internalID: 4626507377093473906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1550e5d8d300c80800000000000000
+      internalID: -8358613231022550532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_199
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 28
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bbbca30e299c4f0800000000000000
+      internalID: -807953166379533498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_200
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 28
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880dfefd292c7a8b0800000000000000
+      internalID: -5140926513542082424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_201
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 28
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277fc7d7e74b70d30800000000000000
+      internalID: 4397682016514799474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_202
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 28
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc867cc027b62030800000000000000
+      internalID: 3469661914432703676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_203
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 28
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181c792f4abce21a0800000000000000
+      internalID: -6832299675369356927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_204
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 28
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fcefad5bd78aa90800000000000000
+      internalID: -7302448575764574307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_205
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 28
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d557fb7953ea04000800000000000000
+      internalID: 18205943711888733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_206
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 28
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10238a0b38dae660800000000000000
+      internalID: 7415977484509978651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_207
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 28
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9432a22b95668f0800000000000000
+      internalID: -547651682932930049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_208
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 28
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c178f1319f103880800000000000000
+      internalID: -8633365777200156220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_209
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 28
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b401781bf65106e00800000000000000
+      internalID: 1035851483759185995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_210
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 28
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9936089ddc208f1e0800000000000000
+      internalID: -2163976537810902119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_211
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 28
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20db5251336652990800000000000000
+      internalID: -7411405242184123134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_212
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 28
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e221f31bc1d028d90800000000000000
+      internalID: -7097095645898534354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_213
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 28
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddeb861d563de5f50800000000000000
+      internalID: 6872162515672415965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_214
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 28
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f654d3ed61ab090800000000000000
+      internalID: -8018071042813235437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_215
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 28
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c842f8c0a17d442e0800000000000000
+      internalID: -2142351015841684340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1841bbcf8724680800000000000000
+      internalID: -8772316097298529880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_217
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 12
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d734e55c24752b0800000000000000
+      internalID: -5595930596527080144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_218
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 12
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9e75b6170923480800000000000000
+      internalID: -8920909095060903471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_219
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 12
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4baff78b3e47e4ed0800000000000000
+      internalID: -2427874627704325452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_220
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 12
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d8a67243252eab0800000000000000
+      internalID: -4980327853965275807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_221
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3139c3d68d423e0800000000000000
+      internalID: -2079299164259019839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_222
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 12
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dbdb551c4ce29e0800000000000000
+      internalID: -1644160479297421930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_223
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 12
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7130da14550d3ca20800000000000000
+      internalID: 3081535634644206359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_224
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 12
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdead1543a65009f0800000000000000
+      internalID: -504307899026264356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_225
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 12
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf5ceadbb9c08720800000000000000
+      internalID: 2846496773167144880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_226
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 12
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e7fd4ca2ed03be0800000000000000
+      internalID: -1499454400641401205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_227
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 12
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31fc6bdc65ce6500800000000000000
+      internalID: 391467288956301630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_228
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 12
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93301de1f60194c0800000000000000
+      internalID: -4282634134518484066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_229
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 12
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37444765c2f235b10800000000000000
+      internalID: 1968969329566565491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_230
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 12
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abb0b2dd7db1c740800000000000000
+      internalID: 5170622195301399465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_231
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 12
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a07e4da4eb09b30800000000000000
+      internalID: 4292139673492851320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_232
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 12
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e474d75bfee9570800000000000000
+      internalID: 8475475111527796224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-alistair2_233
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 12
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830f216a4c0055bf0800000000000000
+      internalID: -336361752569384904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
